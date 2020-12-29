@@ -1,0 +1,76 @@
+{
+    "id": "7902f210-440a-11eb-bdf4-8daaf0e77453",
+    "playerPits": [
+        {
+            "pitId": 1,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 2,
+            "numberOfStones": 0,
+            "empty": true
+        },
+        {
+            "pitId": 3,
+            "numberOfStones": 7,
+            "empty": false
+        },
+        {
+            "pitId": 4,
+            "numberOfStones": 7,
+            "empty": false
+        },
+        {
+            "pitId": 5,
+            "numberOfStones": 7,
+            "empty": false
+        },
+        {
+            "pitId": 6,
+            "numberOfStones": 7,
+            "empty": false
+        },
+        {
+            "pitId": 7,
+            "numberOfStones": 1,
+            "empty": false
+        },
+        {
+            "pitId": 8,
+            "numberOfStones": 7,
+            "empty": false
+        },
+        {
+            "pitId": 9,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 10,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 11,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 12,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 13,
+            "numberOfStones": 6,
+            "empty": false
+        },
+        {
+            "pitId": 14,
+            "numberOfStones": 0,
+            "empty": true
+        }
+    ],
+    "playerTurn": "PlayerTwo"
+}

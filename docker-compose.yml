@@ -1,0 +1,13 @@
+version: '2'
+services:
+  cassandra:
+    container_name: cassandra
+    image: cassandra:3.11.9
+    ports:
+    - "9042:9042"
+    restart: on-failure
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6379:6379"
